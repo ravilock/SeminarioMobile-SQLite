@@ -29,3 +29,7 @@ node ./read/index.js
 ```sh
 node ./aggregate//index.js
 ```
+
+## Relatório de Cronograma
+
+Foi criado um [[relatorio-de-cronograma]] para detalhar o planejamento e a execução das tarefas
