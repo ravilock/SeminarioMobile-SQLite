@@ -32,4 +32,4 @@ node ./aggregate//index.js
 
 ## Relatório de Cronograma
 
-Foi criado um [[relatorio-de-cronograma]] para detalhar o planejamento e a execução das tarefas
+Foi criado um [relatório de gronograma](relatorio-de-cronograma.md) para detalhar o planejamento e a execução das tarefas
