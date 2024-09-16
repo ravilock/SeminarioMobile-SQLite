@@ -1,0 +1,16 @@
+{
+  "name": "seminariomobile-sqlite",
+  "version": "1.0.0",
+  "description": "SQLite para disposivitos móveis, características e exemplo de implementação básica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "sqlite3": "^5.1.7"
+  }
+}
